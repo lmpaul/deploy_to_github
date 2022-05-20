@@ -4,10 +4,7 @@
 
 
 ## Les diapositives
-Les diapositives de ce guide sont disponibles sur le lien suivant :
-
-<a href="https://docs.google.com/presentation/d/16VjsjILJwrdNkOHb24jaxNthKQTVKpEDO1LLEmA7eSw/edit?usp=sharing" target="_blanck">
-Deploy to GitHub (slides) </a>
+Les diapositives de ce guide sont disponibles sur le lien suivant : <a href="https://docs.google.com/presentation/d/16VjsjILJwrdNkOHb24jaxNthKQTVKpEDO1LLEmA7eSw/edit?usp=sharing" target="_blank"> Deploy to GitHub (slides) </a>
 
 ### Étape 1 : Créer un compte GitHub
 
@@ -22,7 +19,7 @@ Il faut maintenant créer un repository GitHub. Un repository est un espace de s
 
 Une fois connecté, créez un repository depuis la page d'accueil comme sur l'image ci-dessous.
 
-<img src="images-readme/create-repo.png" alt="create-repo">
+<img src="images/create-repo.png" alt="create-repo">
 
 Dans le formulaire de création du repository :
 * Choisir un nom pour le repository
