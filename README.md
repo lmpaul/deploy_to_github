@@ -8,7 +8,7 @@ Les diapositives de ce guide sont disponibles sur le lien suivant : <a href="htt
 
 ### Étape 1 : Créer un compte GitHub
 
-Tout d'abord il faut créer un compte GitHub en se rendant à l'adresse suivante : <a href="https://www.github.com"></a>
+Tout d'abord il faut créer un compte  <a href="https://www.github.com">GitHub</a>
 
 
 
